@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="280" viewBox="0 0 940 280" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#475569"/>
+    </marker>
+    <linearGradient id="b1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="b3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="b4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f472b6"/><stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="940" height="280" rx="16" fill="#f8fafc"/>
+  <text x="470" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">科学上网整体流程</text>
+
+  <!-- arrows -->
+  <line x1="205" y1="150" x2="250" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <line x1="435" y1="150" x2="480" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <line x1="665" y1="150" x2="710" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- box 1 -->
+  <g>
+    <rect x="25" y="95" width="180" height="110" rx="14" fill="url(#b1)"/>
+    <circle cx="55" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
+    <text x="55" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#2563eb">1</text>
+    <text x="115" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">准备客户端</text>
+    <text x="115" y="150" text-anchor="middle" font-size="13" fill="#eff6ff">按系统选择工具</text>
+    <text x="115" y="172" text-anchor="middle" font-size="12" fill="#dbeafe">Win / macOS / Linux</text>
+    <text x="115" y="190" text-anchor="middle" font-size="12" fill="#dbeafe">iOS / Android</text>
+  </g>
+
+  <!-- box 2 -->
+  <g>
+    <rect x="255" y="95" width="180" height="110" rx="14" fill="url(#b2)"/>
+    <circle cx="285" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
+    <text x="285" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#059669">2</text>
+    <text x="345" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">获取节点</text>
+    <text x="345" y="150" text-anchor="middle" font-size="13" fill="#ecfdf5">订阅链接 / 节点</text>
+    <text x="345" y="172" text-anchor="middle" font-size="12" fill="#d1fae5">GitHub · YouTube</text>
+    <text x="345" y="190" text-anchor="middle" font-size="12" fill="#d1fae5">或自建节点</text>
+  </g>
+
+  <!-- box 3 -->
+  <g>
+    <rect x="485" y="95" width="180" height="110" rx="14" fill="url(#b3)"/>
+    <circle cx="515" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
+    <text x="515" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#d97706">3</text>
+    <text x="575" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">导入并连接</text>
+    <text x="575" y="150" text-anchor="middle" font-size="13" fill="#fffbeb">导入订阅/节点</text>
+    <text x="575" y="172" text-anchor="middle" font-size="12" fill="#fef3c7">选择延迟最低</text>
+    <text x="575" y="190" text-anchor="middle" font-size="12" fill="#fef3c7">的节点连接</text>
+  </g>
+
+  <!-- box 4 -->
+  <g>
+    <rect x="715" y="95" width="180" height="110" rx="14" fill="url(#b4)"/>
+    <circle cx="745" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
+    <text x="745" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#db2777">4</text>
+    <text x="805" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">测速与检测</text>
+    <text x="805" y="150" text-anchor="middle" font-size="13" fill="#fdf2f8">SpeedTest 测速</text>
+    <text x="805" y="172" text-anchor="middle" font-size="12" fill="#fce7f3">ippure 纯净度</text>
+    <text x="805" y="190" text-anchor="middle" font-size="12" fill="#fce7f3">检测</text>
+  </g>
+
+  <text x="470" y="245" text-anchor="middle" font-size="13" fill="#64748b">按顺序完成四个步骤即可开始安全上网；建议优先使用自建节点。</text>
+</svg>

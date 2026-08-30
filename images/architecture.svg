@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif">
+  <defs>
+    <marker id="ar" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#0ea5e9"/>
+    </marker>
+    <marker id="ar2" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#10b981"/>
+    </marker>
+    <marker id="xr" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M1,1 L9,9 M9,1 L1,9" stroke="#ef4444" stroke-width="2"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="920" height="320" rx="16" fill="#f8fafc"/>
+  <text x="460" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">工作原理示意：流量如何绕过 GFW</text>
+
+  <!-- Box A: device -->
+  <rect x="30" y="120" width="180" height="110" rx="14" fill="#e0f2fe" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="120" y="160" text-anchor="middle" font-size="17" font-weight="bold" fill="#0369a1">你的设备</text>
+  <text x="120" y="186" text-anchor="middle" font-size="13" fill="#075985">电脑 / 手机</text>
+  <text x="120" y="208" text-anchor="middle" font-size="12" fill="#075985">安装客户端工具</text>
+
+  <!-- Box B: node -->
+  <rect x="370" y="120" width="180" height="110" rx="14" fill="#dcfce7" stroke="#10b981" stroke-width="2"/>
+  <text x="460" y="160" text-anchor="middle" font-size="17" font-weight="bold" fill="#047857">海外节点服务器</text>
+  <text x="460" y="186" text-anchor="middle" font-size="13" fill="#065f46">订阅 / 自建</text>
+  <text x="460" y="208" text-anchor="middle" font-size="12" fill="#065f46">位于境外（如 VPS）</text>
+
+  <!-- Box C: internet -->
+  <rect x="710" y="120" width="180" height="110" rx="14" fill="#fef9c3" stroke="#eab308" stroke-width="2"/>
+  <text x="800" y="160" text-anchor="middle" font-size="17" font-weight="bold" fill="#854d0e">境外互联网</text>
+  <text x="800" y="186" text-anchor="middle" font-size="13" fill="#713f12">Google / YouTube</text>
+  <text x="800" y="208" text-anchor="middle" font-size="12" fill="#713f12">GitHub 等</text>
+
+  <!-- encrypted tunnel A->B -->
+  <line x1="210" y1="150" x2="365" y2="150" stroke="#0ea5e9" stroke-width="3" marker-end="url(#ar)"/>
+  <text x="287" y="138" text-anchor="middle" font-size="13" font-weight="bold" fill="#0369a1">① 加密连接</text>
+
+  <!-- B->C -->
+  <line x1="550" y1="150" x2="705" y2="150" stroke="#10b981" stroke-width="3" marker-end="url(#ar2)"/>
+  <text x="627" y="138" text-anchor="middle" font-size="13" font-weight="bold" fill="#047857">② 访问外网</text>
+
+  <!-- GFW barrier -->
+  <g>
+    <rect x="305" y="60" width="310" height="40" rx="10" fill="#fee2e2" stroke="#ef4444" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="460" y="86" text-anchor="middle" font-size="15" font-weight="bold" fill="#b91c1c">🧱 GFW 防火墙</text>
+  </g>
+  <!-- bypass note -->
+  <line x1="460" y1="100" x2="460" y2="118" stroke="#ef4444" stroke-width="2"/>
+  <text x="460" y="250" text-anchor="middle" font-size="14" fill="#b91c1c">流量经「节点服务器」转发，绕过 GFW 的检测与封锁</text>
+
+  <!-- direct blocked (red X) above -->
+  <line x1="210" y1="60" x2="890" y2="60" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#xr)"/>
+  <text x="550" y="48" text-anchor="middle" font-size="13" fill="#ef4444">直连被封锁 ✕</text>
+</svg>
