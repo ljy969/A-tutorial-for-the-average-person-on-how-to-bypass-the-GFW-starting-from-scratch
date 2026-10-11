@@ -1,73 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="280" viewBox="0 0 940 280" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="280" viewBox="0 0 940 280" role="img" aria-labelledby="t d" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC','Segoe UI',sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyN2JlZTU3YS0xMzVkLTQwN2UtOGJlZi04ZTliNWYyMGQyY2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOvqTqyyKPXIUUO72fRkulEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5ZDgyNzMzMi05MTczLTQxOTctODY2ZS00NzNjM2FjNWFlZmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoB0cWvdL5iBpWPjqE+RfnPgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgggeymBrOf9atZgI+vL4k/fKBsMVaUlShsQYVk01GNSS2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGhnF5N1OlPh61qccRECkVAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIA2STqSFVJGgF8j5Rr1zj+ic/XzIEz7xSRD4S6nvK0MkZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEjZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI3YmVlNTdhLTEzNWQtNDA3ZS04YmVmLThlOWI1ZjIwZDJjYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmM4MTgzZTkwLWEyYjctNGI1MS05OTEwLTIyZmQzNGE3ZDM4NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCB7KYGs5/1q1mAj68viT98oGwxVpSVKGxBhWTTUY1JLaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg2PRGxBr0k3LoBWj1ny2cRUINMkl+KvxR9U7ZmUb5x2GiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg/YT8bgzlmw1N9CyhD76nzE+0HnOpKI8z5K0L2WNwK0B0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBe0JEYTWErHmwWLTVmtuy6SK2VO+ZfyZF9IAmhh3awKrM1NHZuFedMQ51l9bFy787ZfiuAQzT77mwFOIc4INzY=</c2pa:manifest></metadata>
+  <title id="t">科学上网整体流程</title>
+  <desc id="d">四个步骤：准备客户端、获取节点、导入并连接、测速与检测。</desc>
   <defs>
     <marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse">
       <path d="M0,0 L9,4 L0,8 Z" fill="#475569"/>
     </marker>
-    <linearGradient id="b1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#2563eb"/>
-    </linearGradient>
-    <linearGradient id="b2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#059669"/>
-    </linearGradient>
-    <linearGradient id="b3" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#d97706"/>
-    </linearGradient>
-    <linearGradient id="b4" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f472b6"/><stop offset="100%" stop-color="#db2777"/>
-    </linearGradient>
+    <linearGradient id="b1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#1e40af"/></linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#047857"/><stop offset="100%" stop-color="#065f46"/></linearGradient>
+    <linearGradient id="b3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#b45309"/><stop offset="100%" stop-color="#78350f"/></linearGradient>
+    <linearGradient id="b4" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#db2777"/><stop offset="100%" stop-color="#9d174d"/></linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="940" height="280" rx="16" fill="#f8fafc"/>
+  <rect width="940" height="280" rx="16" fill="#f8fafc"/>
   <text x="470" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">科学上网整体流程</text>
 
-  <!-- arrows -->
   <line x1="205" y1="150" x2="250" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
   <line x1="435" y1="150" x2="480" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
   <line x1="665" y1="150" x2="710" y2="150" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
 
-  <!-- box 1 -->
   <g>
     <rect x="25" y="95" width="180" height="110" rx="14" fill="url(#b1)"/>
-    <circle cx="55" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
-    <text x="55" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#2563eb">1</text>
-    <text x="115" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">准备客户端</text>
-    <text x="115" y="150" text-anchor="middle" font-size="13" fill="#eff6ff">按系统选择工具</text>
+    <circle cx="55" cy="125" r="16" fill="#fff"/>
+    <text x="55" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#1e40af">1</text>
+    <text x="123" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">准备客户端</text>
+    <text x="115" y="150" text-anchor="middle" font-size="13" fill="#fff">官方仓库下载工具</text>
     <text x="115" y="172" text-anchor="middle" font-size="12" fill="#dbeafe">Win / macOS / Linux</text>
     <text x="115" y="190" text-anchor="middle" font-size="12" fill="#dbeafe">iOS / Android</text>
   </g>
 
-  <!-- box 2 -->
   <g>
     <rect x="255" y="95" width="180" height="110" rx="14" fill="url(#b2)"/>
-    <circle cx="285" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
-    <text x="285" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#059669">2</text>
-    <text x="345" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">获取节点</text>
-    <text x="345" y="150" text-anchor="middle" font-size="13" fill="#ecfdf5">订阅链接 / 节点</text>
+    <circle cx="285" cy="125" r="16" fill="#fff"/>
+    <text x="285" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#047857">2</text>
+    <text x="353" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">获取节点</text>
+    <text x="345" y="150" text-anchor="middle" font-size="13" fill="#fff">订阅链接 / 节点</text>
     <text x="345" y="172" text-anchor="middle" font-size="12" fill="#d1fae5">GitHub · YouTube</text>
-    <text x="345" y="190" text-anchor="middle" font-size="12" fill="#d1fae5">或自建节点</text>
+    <text x="345" y="190" text-anchor="middle" font-size="12" fill="#d1fae5">或自建节点（推荐）</text>
   </g>
 
-  <!-- box 3 -->
   <g>
     <rect x="485" y="95" width="180" height="110" rx="14" fill="url(#b3)"/>
-    <circle cx="515" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
-    <text x="515" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#d97706">3</text>
-    <text x="575" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">导入并连接</text>
-    <text x="575" y="150" text-anchor="middle" font-size="13" fill="#fffbeb">导入订阅/节点</text>
-    <text x="575" y="172" text-anchor="middle" font-size="12" fill="#fef3c7">选择延迟最低</text>
-    <text x="575" y="190" text-anchor="middle" font-size="12" fill="#fef3c7">的节点连接</text>
+    <circle cx="515" cy="125" r="16" fill="#fff"/>
+    <text x="515" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#b45309">3</text>
+    <text x="583" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">导入并连接</text>
+    <text x="575" y="150" text-anchor="middle" font-size="13" fill="#fff">导入订阅 / 节点</text>
+    <text x="575" y="172" text-anchor="middle" font-size="12" fill="#fef3c7">选延迟最低的节点</text>
+    <text x="575" y="190" text-anchor="middle" font-size="12" fill="#fef3c7">开启系统代理 / TUN</text>
   </g>
 
-  <!-- box 4 -->
   <g>
     <rect x="715" y="95" width="180" height="110" rx="14" fill="url(#b4)"/>
-    <circle cx="745" cy="125" r="16" fill="#ffffff" fill-opacity="0.9"/>
-    <text x="745" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#db2777">4</text>
-    <text x="805" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#ffffff">测速与检测</text>
-    <text x="805" y="150" text-anchor="middle" font-size="13" fill="#fdf2f8">SpeedTest 测速</text>
-    <text x="805" y="172" text-anchor="middle" font-size="12" fill="#fce7f3">ippure 纯净度</text>
-    <text x="805" y="190" text-anchor="middle" font-size="12" fill="#fce7f3">检测</text>
+    <circle cx="745" cy="125" r="16" fill="#fff"/>
+    <text x="745" y="131" text-anchor="middle" font-size="18" font-weight="bold" fill="#be185d">4</text>
+    <text x="813" y="122" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">测速与检测</text>
+    <text x="805" y="150" text-anchor="middle" font-size="13" fill="#fff">SpeedTest 测速</text>
+    <text x="805" y="172" text-anchor="middle" font-size="12" fill="#fce7f3">ippure IP 纯净度检测</text>
+    <text x="805" y="190" text-anchor="middle" font-size="12" fill="#fce7f3">DNS 泄漏自查</text>
   </g>
 
-  <text x="470" y="245" text-anchor="middle" font-size="13" fill="#64748b">按顺序完成四个步骤即可开始安全上网；建议优先使用自建节点。</text>
+  <text x="470" y="245" text-anchor="middle" font-size="13" fill="#475569">按顺序完成四个步骤即可开始使用；建议优先使用自建节点，并阅读文末的安全建议。</text>
 </svg>
