@@ -35,7 +35,7 @@
 
 ## 二、获取节点信息以及订阅链接
 
-获取节点 / 订阅链接主要有三种方式：
+获取节点 / 订阅链接主要有以下四种方式：
 
 ### 1. 通过 GitHub 搜索
 
@@ -57,6 +57,16 @@
 > **📺 视频参考：** 可参考 **零度解说** 的 [这期视频](https://www.youtube.com/watch?v=chcFg878840&list=PLBcRkTWd5jt7-yED9UXjnPz6tzyoV_YwZ&index=14&t=699s)。
 >
 > **📄 图文参考：** 若在中国大陆境内，可参考 **零度博客** 的 [这篇文章](https://www.freedidi.com/23618.html) 或 **官方** 的 [**图文教程**](https://blog.cmliussss.com/p/edt2/)。
+
+### 4. 直接使用现成的示例节点
+
+如果你还没有自己的节点，也可以直接复制下面提供的示例节点，按 [三、开始使用](#三开始使用) 的步骤导入客户端即可测试：
+
+```text
+vless://d9f20a29-239e-46ab-82bb-fa0d69e480f9@cf.3666888.xyz:443?encryption=none&security=tls&sni=proxy-3o9.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=proxy-3o9.pages.dev&path=%2Fpicture%2Farchives#%E5%A4%A7%E4%BD%AC%E7%BB%B4%E6%8A%A4%20%7C%20HuTao
+```
+
+> **📌 说明：** 该节点为 **VLESS + TLS(ECH) + WebSocket**，需要使用支持 **ECH** 的较新版本客户端（如 **v2rayN**、**Clash Verge Rev**、**sing-box** 等）。公开示例节点的时效性无法保证，若无法连接或速度不理想，请改用自建节点或其他节点。
 
 > **⚠️ 重要提醒：** 通过 GitHub、YouTube 获取的节点具有时效性，强烈建议自建一个节点作为备用，也建议将自建节点作为主力使用。
 
