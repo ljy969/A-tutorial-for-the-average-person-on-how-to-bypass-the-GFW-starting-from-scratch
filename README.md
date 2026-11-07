@@ -83,7 +83,7 @@
 如果你还没有自己的节点，也可以直接复制下面提供的示例节点，按 [三、开始使用](#三开始使用) 的步骤导入客户端即可**临时测试**：
 
 ```text
-vless://d9f20a29-239e-46ab-82bb-fa0d69e480f9@cf.3666888.xyz:443?encryption=none&security=tls&sni=proxy-3o9.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=proxy-3o9.pages.dev&path=%2Fpicture%2Farchives#%E5%A4%A7%E4%BD%AC%E7%BB%B4%E6%8A%A4%20%7C%20HuTao
+vless://d9f20a29-239e-46ab-82bb-fa0d69e480f9@store.epicgames.com:443?encryption=none&security=tls&sni=proxy-3o9.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=proxy-3o9.pages.dev&path=%2Ftopic%2Fmovie%2Fdiscuss#%E6%9B%B4%E5%A4%9A%E9%80%89%E6%8B%A9%20%7C%20Epicgames
 ```
 
 > **📌 说明：** 该节点为 **VLESS + TLS(ECH) + WebSocket**，需要使用支持 **ECH** 的较新版本客户端（如 **v2rayN**、**Clash Verge Rev**、**sing-box** 等）。公开示例节点的时效性无法保证，且会被很多人同时使用，速度和稳定性都可能不理想；若无法连接，请改用自建节点或其他节点。
